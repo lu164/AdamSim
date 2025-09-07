@@ -68,9 +68,17 @@ sudo apt-get install ros-<your distro>-serial
 * Change pyKDL with other kinematics library that works on Windows and Linux
 
 # Citation
-If you use this code, please quote our works :blush:
+If you use this code, please quote our work :blush:
 
-In progress :construction_worker:
+``` bash
+@article{prados2025adamsim,
+  title={ADAMSim: PyBullet-Based Simulation Environment for Research on Domestic Mobile Manipulator Robots},
+  author={Prados, Adrian and Espinoza, Gonzalo and Mendez, Alberto and Mora, Alicia and Garrido, Santiago and Barber, Ramon},
+  journal={Jornadas de Autom{\'a}tica},
+  number={46},
+  year={2025}
+}
+```
 
 ## Acknowledgement
 This work was supported by Advanced Mobile dual-arm manipulator for Elderly People Attendance (AMME) (PID2022-139227OB-I00), funded by Ministerio de Ciencia e Innovacion.
